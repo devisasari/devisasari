@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<h2 align="center"> Philosophy Teacher & Web Developer</h2>
+<h2 align="center"> Web Developer</h2>
 
 
 - I graduated in Philosophy. I'm studying Computer Programming now. My motto is "Lead the world with code".
