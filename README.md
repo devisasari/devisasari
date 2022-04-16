@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **React,Node.js**
 - 💬 Ask me about **Frontend**
 - ⚡ I'm interested in  **Web Development** 
-- 📫 How to reach me: **isasaridev@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -55,5 +54,7 @@
 
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=devisasari&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisasari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me: **email**
 
 
