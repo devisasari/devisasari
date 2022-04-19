@@ -43,13 +43,16 @@
 </p>
 
 
+
+![](https://komarev.com/ghpvc/?username=devisasari)
+
+<!--
+
 <h3 align="left">Learning</h3>
 <p align="left"> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![](https://komarev.com/ghpvc/?username=devisasari)
-<!--
 <h3 align="left">Stats</h3>
 
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=devisasari&show_icons=true&theme=radical&count_private=true)
