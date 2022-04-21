@@ -5,7 +5,7 @@
 - I graduated in Philosophy. I'm studying Computer Programming now. My motto is "Lead the world with code".
 - 🌱 I’m currently learning **React,Node.js**
 - 💬 Ask me about **Frontend**
-- ⚡ I'm interested in  **Web Development** 
+- ⚡ I'm interested in  **Web Development, System & Network** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
