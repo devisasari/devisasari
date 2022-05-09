@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
-- I graduated in Philosophy. I'm studying Computer Programming now. My motto is "Lead the world with code".
+- I graduated in philosophy. I'm studying computer programming now. My motto is "Lead the world with code".
 - 🌱 I’m currently learning **React, Node.js**
 - 💬 Ask me about **Frontend**
 - ⚡ I'm interested in  **Web Development** 
