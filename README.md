@@ -3,7 +3,6 @@
 
 - I graduated in philosophy. I'm studying computer programming now. My motto is "Lead the world with code".
 - 🌱 I’m currently learning **React, Node.js**
-- 💬 Ask me about **Frontend**
 - ⚡ I'm interested in  **Web Development** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
