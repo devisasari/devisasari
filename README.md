@@ -2,7 +2,6 @@
 
 
 - I graduated in philosophy. I'm studying computer programming now. My motto is "Lead the world with code".
-- 🌱 I’m currently learning **React, Node.js**
 - ⚡ I'm interested in  **Web Development** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,6 +57,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisasari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: **email**
+
+- 🌱 I’m currently learning **React, Node.js**
 
 <h2 align="center"> Web Developer</h2>
 
